@@ -1,0 +1,25 @@
+
+
+body {
+    background-image: url(/images/bg.jpg);
+ 
+   }
+ 
+ .navbar-nav a{
+   padding-left: 30px !important;
+ }
+ 
+ .card-body{
+   background-color: bisque;
+ }
+ 
+ .card-img-top{
+   max-height: 520px;
+   min-height: 520px;
+ }
+ 
+ .fixHeightImg{
+   min-height: 500px !important;
+   max-height: 500px !important;
+   cursor:pointer
+ }
